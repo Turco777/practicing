@@ -1,0 +1,102 @@
+[
+	{
+		"title": "Arroz",
+		"description": "Arroz no se pasa ni se pega",
+		"stock": "50",
+		"thumbnail": "https://www.mayoristanet.com/media/catalog/product/cache/7c7e7e8fca0426f106cb3e3371a80f9c/A/0/A08356.jpg",
+		"category": "Gallo oro",
+		"price": "150.23",
+		"code": "arr152",
+		"id": 1
+	},
+	{
+		"title": "Fideos",
+		"description": "Fideos MOLTO",
+		"stock": "120",
+		"thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/209822/Fideo-Molto-Guiseros-Fideos-Guisero-Molto-500-Gr-1-46224.jpg?v=636383732923400000",
+		"category": "molto",
+		"price": "160.5",
+		"code": "fid121",
+		"id": 2
+	},
+	{
+		"title": "Leche",
+		"description": "Leche sancor",
+		"stock": "90",
+		"thumbnail": "https://acdn.mitiendanube.com/stores/001/160/839/products/013-003-009_leche-la-serenisma-entera-x-1-litro1-8f1dc924ed9d55a87815885191686834-1024-1024.jpg",
+		"category": "LaSerenisima",
+		"price": "225.69",
+		"code": "lec661",
+		"id": 3
+	},
+	{
+		"title": "Carne",
+		"description": "Bife de chorizo",
+		"stock": "150",
+		"thumbnail": "https://blog.ifope.com.br/wp-content/uploads/2021/10/carne-pse-1-1080x675.jpg",
+		"category": "CarneVacuna",
+		"price": "950.87",
+		"code": "vac424",
+		"id": 4
+	},
+  {
+		"title": "Aceite",
+		"description": "Aceite Natura",
+		"stock": "250",
+		"thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/427751-800-600?v=636495154762100000&width=800&height=600&aspect=true",
+		"category": "Natura",
+		"price": "150",
+		"code": "act512",
+		"id": 5
+	},
+	{
+		"title": "Yerba",
+		"description": "Yerba Mañanitas",
+		"stock": "250",
+		"thumbnail": "https://www.gustoargentino.com/cdn/shop/products/yerba-mate-mananita-1kg.png?v=1680723110&width=480",
+		"category": "Mañanitas",
+		"price": "250",
+		"code": "ymt312",
+		"id": 6
+	},
+	{
+		"title": "Café",
+		"description": "Cafe Cabrales",
+		"stock": "2400",
+		"thumbnail": "https://static.cotodigital3.com.ar/sitios/fotos/full/00005900/00005914.jpg?3.0.159d",
+		"category": "Cabrales",
+		"price": "450",
+		"code": "caf312",
+		"id": 7
+	},
+	{
+		"title": "Cerveza",
+		"description": "Cerveza Corona",
+		"stock": "250",
+		"thumbnail": "https://gobar.vtexassets.com/arquivos/ids/159729/01020100063.jpg?v=638107906155530000",
+		"category": "Bebidas",
+		"price": "549.35",
+		"code": "bir231",
+		"id": 8
+	},
+	{
+		"title": "Vino",
+		"description": "Vino Toro",
+		"stock": "90",
+		"thumbnail": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3062462_f.jpg",
+		"category": "Bebidas",
+		"price": "1000",
+		"code": "vin211",
+		"id": 9
+	},
+	{
+		"title": "Fernet",
+		"description": "Fernet Branca",
+		"stock": "90",
+		"thumbnail": "https://www.gustoargentino.com/cdn/shop/files/fernet-branca-700ml_1.png?v=1686748078&width=480",
+		"category": "Bebidas",
+		"price": "100",
+		"code": "fbc336",
+		"id": 10
+	}
+]
